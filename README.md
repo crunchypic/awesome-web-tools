@@ -119,6 +119,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 ## Image Tools
 
 - [Blur Background](https://blurbackground.vip) - Automatically blur image backgrounds in the browser.
+- [CrunchyPic](https://crunchypic.com/compress-image/) - Compress images to an exact KB size in the browser, no signup.
 - [Image Compressor](https://dailytoolkit.app/tools/image-compressor) - Compress JPG, PNG and WebP images in the browser.
 - [Image Cropper](https://dailytoolkit.app/tools/image-cropper) - Crop images to custom sizes and aspect ratios.
 - [Image Resizer](https://dailytoolkit.app/tools/image-resizer) - Resize images to exact dimensions without uploads.
